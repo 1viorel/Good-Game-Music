@@ -1,8 +1,9 @@
-"name": "gg-music-bot",
-  "description": "Un bot creat de Ripterer",
+{
+  "name": "discord-dj",
+  "description": "Discord DJ Bot. Let you play music in your server. Inspired by PlugDJ",
   "version": "0.1.0",
   "main": "lib/test.js",
-  "author": "Ripterer",
+  "author": "Guichaguri",
   "license": "LGPL-2.0",
   "dependencies": {
     "icy": "2.1.0",
